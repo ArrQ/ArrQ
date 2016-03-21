@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/bitstream.h
+END
+rscode.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/rscode.c
+END
+mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/mask.h
+END
+qrencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/qrencode.c
+END
+split.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/split.h
+END
+qrinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/qrinput.c
+END
+qrspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/qrspec.h
+END
+rscode.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/rscode.h
+END
+qrencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/qrencode.h
+END
+qrinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/qrinput.h
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/bitstream.c
+END
+mask.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/mask.c
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/split.c
+END
+qrspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/QRCodeBuilder/libqrencode/qrspec.c
+END

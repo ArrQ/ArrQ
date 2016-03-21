@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models
+END
+Message.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Message.m
+END
+UserMsg.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/UserMsg.m
+END
+Address.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Address.m
+END
+Meet.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Meet.h
+END
+Contact.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Contact.h
+END
+SharePicture.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/SharePicture.h
+END
+Meet.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Meet.m
+END
+Contact.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Contact.m
+END
+NSBaseObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/NSBaseObject.h
+END
+SharePicture.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/SharePicture.m
+END
+CircleMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/CircleMessage.h
+END
+NSBaseObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/NSBaseObject.m
+END
+Notify.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Notify.h
+END
+CircleMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/CircleMessage.m
+END
+Room.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Room.h
+END
+Notify.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Notify.m
+END
+User.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/User.h
+END
+Favorite.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Favorite.h
+END
+Room.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Room.m
+END
+KLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/KLocation.h
+END
+Session.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Session.h
+END
+User.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xizuesoft/!svn/ver/9696/projects/weiyuan/ios/weiyuan/Models/User.m
+END
+Message.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Message.h
+END
+Favorite.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Favorite.m
+END
+Address.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Address.h
+END
+UserMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/UserMsg.h
+END
+KLocation.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/KLocation.m
+END
+Session.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/weiyuan/Models/Session.m
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities
+END
+RFImageToDataTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/RFImageToDataTransformer.h
+END
+XMPPIDTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/XMPPIDTracker.h
+END
+GCDMulticastDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/GCDMulticastDelegate.h
+END
+RFImageToDataTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/RFImageToDataTransformer.m
+END
+LibIDN.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/LibIDN.h
+END
+XMPPSRVResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/XMPPSRVResolver.h
+END
+XMPPIDTracker.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/XMPPIDTracker.m
+END
+DDList.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/DDList.h
+END
+GCDMulticastDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/GCDMulticastDelegate.m
+END
+LibIDN.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/LibIDN.m
+END
+XMPPSRVResolver.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/XMPPSRVResolver.m
+END
+DDList.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/xizuesoft/!svn/ver/9625/projects/weiyuan/ios/Thirdparts/XMPP/Utilities/DDList.m
+END

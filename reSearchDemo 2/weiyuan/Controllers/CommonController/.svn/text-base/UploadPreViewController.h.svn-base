@@ -1,0 +1,28 @@
+//
+//  UploadPreViewController.h
+//  Binfen
+//
+//  Created by NigasMone on 14-12-1.
+//  Copyright (c) 2014年 NigasMone. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "BaseViewController.h"
+
+@protocol previewImageDidDelegate <NSObject>
+@optional
+- (void)previewImageDid:(id)image;
+@end
+
+@interface UploadPreViewController : BaseViewController {
+    CGRect screenFrame;
+}
+
+
+@property (nonatomic, strong) UIImage* image;
+/** 0: 头像 1 相册封面 2 裁剪图片 */
+@property (nonatomic, assign) int uplaodType;
+
+@property (nonatomic, assign) id<previewImageDidDelegate> del;
+
+@end
